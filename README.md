@@ -1,12 +1,12 @@
 # BagWorld
  
-Project Functionalities with Description:
+## Project Functionalities with Description:
 
-Admin Interface Features:
-Easily manage and edit products
+### Admin Interface Features:
+Easily manage and edit products<br>
 Admin Login feature to protect unauthenticated access of admin dashboard
-Password stored in Hash Value
-Data is represented in proper Tabular format
+-> Password stored in Hash Value
+-> Data is represented in proper Tabular format
 Add/Delete/Update Product Category
 Add/Delete/Update Brand Name
 Add/Delete/Update Product
